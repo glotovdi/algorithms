@@ -5,7 +5,8 @@
   "scripts": {
     "sort-insert": "ts-node src/sort/insert.ts",
     "searh-binary": "ts-node src/search/binary.ts",
-    "recursive": "ts-node src/recursive.ts"
+    "recursive": "ts-node src/recursive.ts",
+    "quick": "ts-node src/sort/quick.ts"
   },
   "author": "",
   "license": "ISC",
