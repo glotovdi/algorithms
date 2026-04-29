@@ -6,7 +6,9 @@
     "sort-insert": "ts-node src/sort/insert.ts",
     "searh-binary": "ts-node src/search/binary.ts",
     "recursive": "ts-node src/recursive.ts",
-    "quick": "ts-node src/sort/quick.ts"
+    "quick": "ts-node src/sort/quick.ts",
+    "curry": "ts-node src/utils/curry.ts",
+    "observable": "ts-node src/utils/observable.ts"
   },
   "author": "",
   "license": "ISC",
